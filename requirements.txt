@@ -5,3 +5,5 @@ matplotlib==3.7.1
 yfinance==0.2.18
 backtrader==1.9.78.123
 python-dotenv==1.0.0
+adata
+pyfinance
